@@ -11,5 +11,6 @@ public static void main(String[] args) {
 public static void change(String str,char a[]){
 	str="change";
 	a[0]='g';
+	//gegnxin
 }
 }
